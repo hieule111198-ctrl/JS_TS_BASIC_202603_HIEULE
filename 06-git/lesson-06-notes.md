@@ -58,3 +58,11 @@ docs: update git lesson
 feat: add product search flow
 test: test login test
 fix: fix correct login selector
+
+git log --oneline
+9502db2 (HEAD -> main, origin/main) docs: add git lesson
+445d5ae docs: add git lesson
+06c02b5 first commit
+
+HEAD -> main: vị trí đang đứng ở nhánh main, tương ứng vs nhánh main ở repository (origin/main)
+
