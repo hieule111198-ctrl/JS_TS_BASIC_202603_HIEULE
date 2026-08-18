@@ -66,6 +66,7 @@ git log --oneline
 
 HEAD -> main: vị trí đang đứng ở nhánh main, tương ứng vs nhánh main ở repository (origin/main)
 
-Muốn lấy thông tin về code mới nhất ta dùng git pull 333
+Muốn lấy thông tin về code mới nhất ta dùng git pull 444
+sjdflsjlfsdjflsj
 
 
