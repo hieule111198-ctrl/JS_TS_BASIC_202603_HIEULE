@@ -68,5 +68,6 @@ HEAD -> main: vị trí đang đứng ở nhánh main, tương ứng vs nhánh m
 
 Muốn lấy thông tin về code mới nhất ta dùng git pull 444
 sjdflsjlfsdjflsj
+local hieu,,,,
 
 
