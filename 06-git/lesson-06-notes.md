@@ -82,6 +82,11 @@ Lí do: nhánh mới sẽ tạo ra trên nhánh hiện tại
 nếu đang đứng ở main -> nhánh mới sẽ lấy code từ main
 FLOW: quay về main -> pull code mới nhất -> tạo nhánh từ main
 
-git checkout main: chuyển sang 1 nhánh khác
+git checkout main
+git checkout: chuyển sang 1 nhánh khác
+=> git checkout -b tennhanh(docs/git-lesson)
+
+Tôi đã code xong ở nhánh mới
+
 
 
