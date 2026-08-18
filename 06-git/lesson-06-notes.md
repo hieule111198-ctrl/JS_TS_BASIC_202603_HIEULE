@@ -45,3 +45,16 @@ origin là tên ngắn của repo github mà mình đã gắn vào
 Có nhiều môi trường:
 dev: main => Nhánh này là nhánh chính chạy ổn định -> khi làm việc người ta sẽ tạo 1 nhánh khác để làm việc để ko ảnh hưởng tới nhánh chính đang sử dụng -> sau khi code ổn định ở nhánh phụ -> chúng ta mới merge code vào nhánh chính để bổ sung tính năng
 uat: main
+
+Cách đặt tên commit:
+- Khi project có nhiều commit thì mình cần lịch sử để biết hôm đó sửa gì, ai sửa, sửa tính năng gì
+- Công thức đơn giản nhất:
+Động từ + nội dung thay đổi
+ví dụ: add login test/ fix login validation
+- Cách chuyên nghiệp: 
+type: nội dung thay đổi
+Ví dụ: 
+docs: update git lesson
+feat: add product search flow
+test: test login test
+fix: fix correct login selector
