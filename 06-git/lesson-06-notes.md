@@ -70,4 +70,18 @@ Muốn lấy thông tin về code mới nhất ta dùng git pull 444
 sjdflsjlfsdjflsj
 local hieu,,,,
 
+Quy trình:
+main -> tạo nhánh mới -> sửa code -> commit -> push nhánh -> merge vào main -> push main
+
+Branch
+- cách đặt tên ngắn gọn, k dấu, k có khoảng trắng
+docs/git-lesson
+feat/product-search
+- Trước khi tạo nhánh mới nên quay về main
+Lí do: nhánh mới sẽ tạo ra trên nhánh hiện tại
+nếu đang đứng ở main -> nhánh mới sẽ lấy code từ main
+FLOW: quay về main -> pull code mới nhất -> tạo nhánh từ main
+
+git checkout main: chuyển sang 1 nhánh khác
+
 
