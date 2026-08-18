@@ -88,5 +88,12 @@ git checkout: chuyển sang 1 nhánh khác
 
 Tôi đã code xong ở nhánh mới
 
+Quy trình đổi branch:
+git checkout mains
+git pull
+git checkout -b docs/workflow-2 
+(xong rồi code ở nhánh 2 > git status > git add . > git commit -m "..." > git push -u origin docs/workflow-2)
+git checkout main > git status > git merge docs/workflow-2 > git status > git push
+
 
 
